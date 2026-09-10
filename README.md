@@ -2,13 +2,13 @@
 
 A collection of beginner-friendly Python projects created while learning Python programming.
 
-## 2. StudyBuddy – Basic Chatbot
+## 1. StudyBuddy – Basic Chatbot
 A simple command-line chatbot that interacts with the user and responds to basic messages like hello, how are you, and bye.
 
 *Concept Used:* Input/Output, Conditions, While Loop, String Methods
 
 ---
-## 1. Hangman Game
+## 2. Hangman Game
 
 A simple word-guessing game where the player guesses a randomly selected word one letter at a time.
 
